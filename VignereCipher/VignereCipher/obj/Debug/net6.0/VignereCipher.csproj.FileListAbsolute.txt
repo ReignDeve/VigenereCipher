@@ -1,0 +1,15 @@
+C:\Users\Marius\source\repos\VignereCipher\VignereCipher\bin\Debug\net6.0\VignereCipher.exe
+C:\Users\Marius\source\repos\VignereCipher\VignereCipher\bin\Debug\net6.0\VignereCipher.deps.json
+C:\Users\Marius\source\repos\VignereCipher\VignereCipher\bin\Debug\net6.0\VignereCipher.runtimeconfig.json
+C:\Users\Marius\source\repos\VignereCipher\VignereCipher\bin\Debug\net6.0\VignereCipher.dll
+C:\Users\Marius\source\repos\VignereCipher\VignereCipher\bin\Debug\net6.0\VignereCipher.pdb
+C:\Users\Marius\source\repos\VignereCipher\VignereCipher\obj\Debug\net6.0\VignereCipher.csproj.AssemblyReference.cache
+C:\Users\Marius\source\repos\VignereCipher\VignereCipher\obj\Debug\net6.0\VignereCipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marius\source\repos\VignereCipher\VignereCipher\obj\Debug\net6.0\VignereCipher.AssemblyInfoInputs.cache
+C:\Users\Marius\source\repos\VignereCipher\VignereCipher\obj\Debug\net6.0\VignereCipher.AssemblyInfo.cs
+C:\Users\Marius\source\repos\VignereCipher\VignereCipher\obj\Debug\net6.0\VignereCipher.csproj.CoreCompileInputs.cache
+C:\Users\Marius\source\repos\VignereCipher\VignereCipher\obj\Debug\net6.0\VignereCipher.dll
+C:\Users\Marius\source\repos\VignereCipher\VignereCipher\obj\Debug\net6.0\refint\VignereCipher.dll
+C:\Users\Marius\source\repos\VignereCipher\VignereCipher\obj\Debug\net6.0\VignereCipher.pdb
+C:\Users\Marius\source\repos\VignereCipher\VignereCipher\obj\Debug\net6.0\VignereCipher.genruntimeconfig.cache
+C:\Users\Marius\source\repos\VignereCipher\VignereCipher\obj\Debug\net6.0\ref\VignereCipher.dll
